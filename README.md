@@ -65,7 +65,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # Ecommerce
 
-Proyecto que ayuda a solucionar la problematica de la poca atencion de usuarios en el sistema de salud
+Proyecto de Ecommerce
 
 ## Stack Tecnologico
 
